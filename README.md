@@ -16,16 +16,12 @@
 
 ## 小工具
 
-| 项目 | 简介 | 主要语言 | 链接 |
-| --- | --- | --- | --- |
-| ScreenKeeper | Linux Screen 会话守护与故障自恢复工具 | Python | <https://github.com/nnlmc/ScreenKeeper> |
+这个分类暂时还没有收录项目。
 
 ## 其他
 
 | 项目 | 简介 | 主要语言 | 链接 |
 | --- | --- | --- | --- |
-| gsmb | 机器人相关项目 | — | <https://github.com/nnlmc/gsmb> |
-| gs_text_fortune_test | 测试专用项目 | — | <https://github.com/nnlmc/gs_text_fortune_test> |
 | - | 临时项目 | — | <https://github.com/nnlmc/-> |
 
 ---
