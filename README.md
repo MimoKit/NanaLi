@@ -16,7 +16,9 @@
 
 ## 小工具
 
-这个分类暂时还没有收录项目。
+| 项目 | 简介 | 主要语言 | 链接 |
+| --- | --- | --- | --- |
+| WebScreenshot | GsCore 网页链接自动解析截图工具插件 | Python | <https://github.com/nnlmc/WebScreenshot> |
 
 ## 其他
 
